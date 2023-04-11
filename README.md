@@ -1,4 +1,4 @@
-- Dashboard feito apenas para critério de TREINAMENTO
+- DASHBOARD FEITO PARA CRITÉRIO DE TREINAMENTO
 
   [Dashboard.Human.Resources.Analitycs.zip](https://github.com/IsacMonteiro/VDD/files/11202736/Dashboard.Human.Resources.Analitycs.zip)
 
